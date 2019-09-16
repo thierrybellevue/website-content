@@ -41,14 +41,14 @@ In Node.js:
 
 ```js
 const clone = require('lodash.clone')
-const clonedeep = require('lodash.clonedeep')
+const clonedeep = require('lodash.cloneDeep')
 ```
 
 Here is an example that shows those two functions in use:
 
 ```js
 const clone = require('lodash.clone')
-const clonedeep = require('lodash.clonedeep')
+const clonedeep = require('lodash.cloneDeep')
 
 const externalObject = {
   color: 'red'
